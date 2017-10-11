@@ -8,3 +8,5 @@ https://webgl2fundamentals.org/webgl/lessons/webgl-fundamentals.html
 
 https://github.com/stackgl/shader-school
 
+https://github.com/terkelg/awesome-creative-coding
+
