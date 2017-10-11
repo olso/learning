@@ -10,3 +10,7 @@ https://github.com/stackgl/shader-school
 
 https://github.com/terkelg/awesome-creative-coding
 
+http://ryder-ripps.com
+
+http://www.glimmdisplay.com/holographic-solutions/large-hologram-projection/
+
