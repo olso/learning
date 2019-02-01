@@ -1,0 +1,21 @@
+{
+  "name": "progressbar-table-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "4.2.0",
+    "chai-bignumber": "2.0.2",
+    "openzeppelin-solidity": "2.0.0",
+    "web3-utils": "1.0.0-beta.36"
+  }
+}

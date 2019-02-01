@@ -1,0 +1,627 @@
+[
+  {
+    "hash": "41a936cdb49b30",
+    "name": "Matei Copot (Host)",
+    "privileges": ["add-user", "remove-user", "read-list", "open", "answer"]
+  },
+  {
+    "hash": "4e01836adb5228",
+    "name": "Marek Mansell (Core Member) <marek.mansell@gmail.com>",
+    "privileges": ["add-user", "read-list", "open", "answer"]
+  },
+  {
+    "hash": "bf071fb7acca80",
+    "name": "Ewe (Core Member) <github.com/Ivkaa>",
+    "privileges": ["add-user", "read-list", "open", "answer"]
+  },
+  {
+    "hash": "ec9773f37792e8",
+    "name": "Martin Kustek (Member) <martin.kustek@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "3c69424ab38fc8",
+    "name": "Slavomir Kubacka (Biotron, Fixed Desk) <slavomir.kupacka@biotron.io>",
+    "privileges": ["add-user", "open", "answer"]
+  },
+  {
+    "hash": "aad6bd53268b90",
+    "name": "Pavol Magic (Biotron) <pavol.magic@biotron.io>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "3e53e53c66f4d6",
+    "name": "Adam Kulisek (Fixed Desk) <akulisek@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "53768c6a0fb168",
+    "name": "Martin Olsansky (Core Member, Treeti, Fixed Desk) <olsansky.martin@gmail.com>",
+    "privileges": ["add-user", "read-list", "open", "answer"]
+  },
+  {
+    "hash": "2f562a5d8dea9a",
+    "name": "David Stancel (Hot Desk) <stancel.david@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "6af7393152b798",
+    "name": "Jan Gondol (Hot Desk, Meetup Organizer) <gondol@gondol.sk>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "e8a93f4f2196d0",
+    "name": "yangwao (Founder, Administrator) <ybdaba@gmail.com>",
+    "privileges": ["add-user", "remove-user", "read-list", "open", "answer"]
+  },
+  {
+    "hash": "9c641115018870",
+    "name": "Radka Gettova (Member) <rgettova@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "78accda5286344",
+    "name": "Martin Smolka (Biotron, Fixed Desk) <ms@biotron.io>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "bc86b5195e1bf0",
+    "name": "Matus Pavelek (Core Member) <mpavelek@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "302316df2b3168",
+    "name": "Jakub Remzik (Treeti, Fixed Desk) <jakub.remzik@treeti.com>",
+    "privileges": ["add-user", "open", "answer"]
+  },
+  {
+    "hash": "3c644cd09e187e",
+    "name": "Ludovit Ubrezi (Fixed Desk, Treeti) <ludovit.ubrezi@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "4fc8427a87df44",
+    "name": "Sandra Wantrubova (Fixed Desk, Treeti) <sandra.wantrubova@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "115d16aea8ad52",
+    "name": "David Kmec (Fixed Desk, Treeti) <david.kmec@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "8f82809b1127b8",
+    "name": "Peter Rybar (Fixed Desk, Treeti) <peter.rybar@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "bb6c499fd78250",
+    "name": "Peter Dendis (Biotron, Fixed Desk) <peter.dendis@biotron.io>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "be0c2e03d06d20",
+    "name": "Renata Smolkova (Biotron, Fixed Desk) <renata.smolkova@biotron.io>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "ffc20ef93f3940",
+    "name": "Roland Hudak (Treeti, Fixed Desk) <hi@rolandhudak.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "6badf0922786dc",
+    "name": "Biba Grey (Intruder) <biba.grey@gmail.com>",
+    "privileges": ["entitled-to-free-hugs-from-everyone", "open", "answer"]
+  },
+  {
+    "hash": "f932ee0bc51a88",
+    "name": "Pierre Charvet (Biotron, Fixed Desk) <pierre.charvet@biotron.io>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "68d8e128fe41d0",
+    "name": "Adrian Pales (Biotron Freelancer) <adrian@ridelo.eu>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "67682042418b18",
+    "name": "Martin Habovstiak (Core Member) <martin.habovstiak@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "ff5f2f6da32ee0",
+    "name": "Adam Studenik (Member) <adam.studenik@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "88fa51728de078",
+    "name": "Milan Gajdos (Treeti, Fixed Desk) <milan@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "4fc8427a87df44",
+    "name": "Sandra Wantrubova (Treeti, Fixed Desk) <sandra.wantrubova@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "7da04c5fa3e904",
+    "name": "Peter Nosko (Member) <peter.nosko@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "feace9461791d8",
+    "name": "Matej Held (Member) <mat.oheld@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "fb23c942eb0760",
+    "name": "Tomas Kubka (Daypass) <tomasba@protonmail.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "f9326ea9538a68",
+    "name": "Mattis Jeppsson (Daypass) <mattis@forzasys.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "02d153563e2c23",
+    "name": "Jan Prichystal (Daypass) <patomil@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "c30a2c3722f6c8",
+    "name": "Lukas Imrich (Hot Desk) <imrich.l@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "fbe880477d8b78",
+    "name": "Natalia Hudcovicova (Biotron, Fixed Desk) <natalia.hudcovicova@biotron.io>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "fd19968af804c0",
+    "name": "Jakub Panik (Friend) <jakub.panik@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "443ae122cb5b00",
+    "name": "Matej Mešár (Biotron) <matt.mesar@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "3b053bd3d9abe6",
+    "name": "Juraj Kubica (Founder) <juraj.kubica@gmail.com>",
+    "privileges": ["add-user", "open", "answer"]
+  },
+  {
+    "hash": "53a5fc2562eaec",
+    "name": "Juraj Karac (Fixed desk) <juraj@karac.sk>",
+    "privileges": [""]
+  },
+  {
+    "hash": "8573904e0e1328",
+    "name": "Alzbeta Gramblickova (Fixed desk) <alzbeta.gramblickova@treeti.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "fd783841d2cbe8",
+    "name": "David Kanika (Hot Desk) <david.kanika@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "c22f91725a9dc8",
+    "name": "Miro Janosik (Daypass) <miro.janosik@gmail.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "899e7d6b5d4358",
+    "name": "Jakub Mazgut (Biotron) <mazgut@gmail.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "07571bd38661644",
+    "name": "Michal Zima (Daypass) <miso.zima@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "f926f10a6b5d98",
+    "name": "Wifinka (Guest) <viktoria.vargicova@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "35aaf9e7dbead8",
+    "name": "Miroslav Luhovy (Fixed desk) <mhulovy@gmail.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "dc33eaa5f588c8",
+    "name": "Peter Rafaj (Fixed Desk) <peter.rafaj@gmail.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "82890c0bcd3948",
+    "name": "Filip Tomaska (Biotron (Decent)) <tomaska.filip@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "c8bfdb6292ef48",
+    "name": "Jakub Zovak (Host) <telegram:Zovi343>",
+    "privileges": ["open", "answer", "add-user"]
+  },
+  {
+    "hash": "e473f4e2db9528",
+    "name": "Peter Kris (atmOp) <petokris@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "99c5725eef7290",
+    "name": "Veronika Cigáneková (Honorary Guest, Rmbrk, Smarta) <veronika@pres.sk>",
+    "privileges": ["open"]
+  },
+  {
+    "hash": "e8927bbf34fe98",
+    "name": "Matcha (Honorary Guest, Matsu) <martin.tuzincinova@gmail.com>",
+    "privileges": ["open"]
+  },
+  {
+    "hash": "55044a1836b9fc",
+    "name": "Jakub Koricansky (Honorary Guest, Studio Echt) <kubo.koricansky@gmail.com>",
+    "privileges": ["open"]
+  },
+  {
+    "hash": "00a82346a398061",
+    "name": "Tomas Koprusak (Fixed Desk, Treeti) <tomas.koprusak@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "b44514ec2e0ff0",
+    "name": "Reka Tundokova (Honorary Guest) <reka.tundokova@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "3173866abac6e2",
+    "name": "Matej Boda (Honorary Guest, Treeti) <matej.boda@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "f4d65838f1cc50",
+    "name": "Miroslav Svitok (Daypass, Dennik N) <mirosvitok@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "fdc3d08e8008f0",
+    "name": "Robert Balejik (Daypass) <r.balejik@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "ae02499f600a78",
+    "name": "Peter Kris (Honorary Guest) <petokris@gmail.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "669e624f93ebfc",
+    "name": "tvaroch (member) <mkorytar@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "f468163c3016b0",
+    "name": "Michaela Sucha (Host) <sucha.miska@gmail.com>",
+    "privileges": ["open", "answer", "add-user", "remove-user"]
+  },
+  {
+    "hash": "0fbd1996343365",
+    "name": "Andrej Kruzliak (11. May only - smarta) <a.kruzliak@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "ae41c2b4aaeb18",
+    "name": "Martin Balucha (Hot Desk) <baluchamartin@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "f29ce0e8d13068",
+    "name": "Ellen (Honorary Guest, Decent) <alena.hupcejova@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "aeb892eef5afa8",
+    "name": "Robert Simon (Core member) <shock@ynet.sk>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "9cf5a70a6e7da0",
+    "name": "Igor Trenk (Honorary Guest, Cyklokoalícia) <igor.trenk@unitea.sk>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "31a340c6d98892",
+    "name": "Lukas Moors (Fixed Desk, freelancer) <moorslukas@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "bf7ce08ba0dfc8",
+    "name": " (Fixed Desk, Treeti) <michal.porvaznik@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "bf7ce08ba0dfc8",
+    "name": "Michal Porvaznik (Fixed Desk, Treeti) <michal.porvaznik@treeti.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "a7cbafe1db5610",
+    "name": "Milan Lucansky (Fixed Desk, Improvio) <lucansky.milan@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "91b07a5c29e9e8",
+    "name": "Jozef Harinek (Fixed Desk, Prime hammer) <j.harinek@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "eaf7588f496668",
+    "name": "Anna Maria Brijakova (ngo meetings, Vlcata) <brijakova.amy@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "0eb32bcb001e288",
+    "name": "Dmitry Kim (Member) <jason@nichego.net>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "bf7ce08ba0dfc8",
+    "name": "Michal Marencik (Fixed Desk, Treeti) <michal.marencik@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "ea4e1b04e78d30",
+    "name": "Karin Tóthová (Host) <karin@pres.sk >",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "038338613253d7",
+    "name": "Ondrej Maksi (Honorary Guest) <ondrej.maksi@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "e65516bf3ed900",
+    "name": "Daniel Derevjanik (Fixed Desk, Treeti) <daniel.derevjanik@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "48ddab9b45bb08",
+    "name": "David Blanar (Fixed Desk, Treeti) <david.blanar@treeti.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "0e7914ae93252e8",
+    "name": "David Nemcok (Fixed Desk, Treeti) <david.nemcok@treeti.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "5dfcec05a5c6f0",
+    "name": "Evan Santa (Fixed Desk, Treeti) <evan.santa@treeti.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "25abefaaef55c0",
+    "name": "Miroslav Culik (Fixed Desk, Treeti) <miroslav.culik@treeti.com>",
+    "privileges": [""]
+  },
+  {
+    "hash": "f83dd5c53c1a60",
+    "name": "Laura Valachová (Fixed Desk, Rada Mladeze) <laura.valachova@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "8fe85d26557148",
+    "name": "Laura Valachová (Fixed Desk, Rada Mladeze) <laura.valachova@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "fab413de32a958",
+    "name": "Peter Nosko (Honorary Guest) <peter.nosko@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "fe51b2a031b078",
+    "name": "Aitor Conde (Daypass) <a.conde.huarte@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "48ddab9b45bb08",
+    "name": "David Nemcok (Fixed Desk, Treeti) <david.nemcok@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "ff527e666e42e0",
+    "name": "Michal Klempa (Fixed Desk, Treeti) <michal.klempa@treeti.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "f63820c07e4460",
+    "name": "Michail Sapiro (Fixed Desk, CompanyA) <michail@companya.eu>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "650adc138ea240",
+    "name": "David Straka (Honorary Guest, with kuko) <davidstraka@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "ff78cea0317840",
+    "name": "Boglarka Ivanegova (Honorary Guest, with kuko) <ivanegova.boglarka@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "2e007f2b63361a",
+    "name": "Peter Kopalek (Hot Desk, Freelancer) <kopalekp@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "5a59cac5eaefd8",
+    "name": "Michal Magnusek (Fixed Desk, Decent) <michalmgm@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "c1b8335812a5c8",
+    "name": "Viktor Sklencar (Hot Desk, freelancer) <vsklencar@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "a6981ddf25c5d0",
+    "name": "Martin F (Fixed Desk, Treeti) <martin.fajcik@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "61308b4d91d2b4",
+    "name": "Natalia Ravingerova (Honorary Guest) <natalia.rav@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "ab1a9754221e60",
+    "name": "Tibor Lachkovic (Honorary Guest) <tibor@rmbrk.sk>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "ff58ef6c4691c0",
+    "name": "Viktoria Doanova (Honorary Guest) <vikimailand@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "ffc2ff8c16c3f0",
+    "name": "Lenkla (Hot Desk, MakerDAO) <lenka@makerdao.com>",
+    "privileges": ["open"]
+  },
+  {
+    "hash": "272e8c50ecbc30",
+    "name": "Nikola Gajdosova (Honorary Guest) <nikola@pres.sk>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "55d3c9eed3df58",
+    "name": "Jakub Gregus (Honorary Guest) <kubo.gregus@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "fcd4878f596150",
+    "name": "Mirka Rusnáková (Daypass, People Ecosystems s.r.o) <mirka@peopleecosystems.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "a48c67ed2dad40",
+    "name": "Terezia Dominika Lukacova (Fixed Desk, People Ecosystems, s.r.o) <terezia@minitechmba.org>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "3088f3357bbe9e",
+    "name": "Terezia Dominika Lukacova (Fixed Desk, People Ecosystems, s.r.o) <terezia@minitechmba.org>",
+    "privileges": [""]
+  },
+  {
+    "hash": "641a356fe78e84",
+    "name": "Eva Klimekova (Fixed Desk, People Ecosystems s.r.o) <eva.klimekova@minitechmba.org>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "c501fb903e46f8",
+    "name": "Katarina Simcisko (Daypass) <k.simcisko@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "fbf9c122753c00",
+    "name": "Samuel Gabura (Honorary Guest, VideoKolektiv) <samuel.gabura@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "20836c8963521a",
+    "name": "Anette Rolikova (Honorary Guest, Youth Council) <anette.rolikova@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "a914aebb789c18",
+    "name": "Michaela Sucha (Honorary Guest, Progressbar) <miska@pres.sk>",
+    "privileges": ["open", "answer", "add-user"]
+  },
+  {
+    "hash": "ff3687af3703b0",
+    "name": "Henka Fialka (Honorary Guest, inak) <henazezulova@gmail.com>",
+    "privileges": ["open"]
+  },
+  {
+    "hash": "62b98504ba1268",
+    "name": "Veronika Kovacikova (Fixed Desk, Mini Tech MBA) <veronika.kovacikova@minitechmba.org>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "f0750fa30a8c20",
+    "name": "Alzbeta Mojzisova (People EcoSystems) <alzbeta.mojzisova@peopleecosystems.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "73aa84abdd7a9c",
+    "name": "Anette Rolikova (Honorary Guest, Youth Council) <anette.rolikova@gmail.com>",
+    "privileges": ["open", "answer", "add-user"]
+  },
+  {
+    "hash": "c77f4e0f9491a8",
+    "name": "Adam Santa (Fixed Desk, MBA minitech) <adam.santa@minitechmba.org>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "62bcfd770d64e8",
+    "name": "Roman Spiak (Core Member) <spiak.roman@gmail.com >",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "0ec2485d85f63a",
+    "name": "Lenka Rozsívalová (piatkový event v meetingovke , OZ cyklokoalícia ) <lenka.rozsivalova@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "67ce858ab50428",
+    "name": "Yusuke Saito (Fixed Desk) <ysaito8015@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "175b3bbf769adb",
+    "name": "Daša Barteková (Fixed Desk, cyklokoalicia) <dasa@cyklokoalicia.sk>",
+    "privileges": [""]
+  },
+  {
+    "hash": "e448742cf4de70",
+    "name": "Terazka Kmecova (Honorary Guest, Campus Cowork, Friends) <kmecovaterezia@gmail.com>",
+    "privileges": ["open"]
+  },
+  {
+    "hash": "4e09738590aa00",
+    "name": "Monika Povodová (Daypass, Halfpoint) <monika.sandrikova@gmail.com>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "fd250ace5d0c68",
+    "name": "Dan Kollar (Fixed Desk, Cyklokoalicia) <dan@cyklokoalicia.sk>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "0e2df3d22e2f3f",
+    "name": "David Arway (Fixed Desk, NKB) <david.arway@nkbgroup.io>",
+    "privileges": ["open", "answer"]
+  },
+  {
+    "hash": "33e4c6eda04a26",
+    "name": "Miro Skovajsa (Hot Desk, NKB) <miro.skovajsa@nkbgroup.io>",
+    "privileges": [""]
+  },
+  {
+    "hash": "e9c90f50d1a298",
+    "name": "Martin Fridrich (Fixed Desk, SaferPass) <https://github.com/martinfridrich>",
+    "privileges": ["open"]
+  },
+  {
+    "hash": "e41d7f32547c08",
+    "name": "Natalia Chnapkova (Hot Desk, ASAP- translation.com) <natalia.chnapkova18@gmail.com>",
+    "privileges": ["open", "answer"]
+  }
+]
