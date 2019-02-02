@@ -1,0 +1,12 @@
+[package]
+name = "hello-rust-olso"
+description = "hello-rust-olso"
+license = "MIT"
+documentation = "https://olso.space"
+version = "0.1.0"
+authors = ["olso <olsansky.martin@gmail.com>"]
+edition = "2018"
+homepage = "https://olso.space"
+repository = "https://olso.space"
+
+[dependencies]
